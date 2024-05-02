@@ -25,10 +25,14 @@ public class HomeTests {
 =======
 
     @Test
+    public void homeTest1() {
+        String str = "HomeTest1 by Asi";
+        System.out.println(str);
+    }
+    @Test
     public void homeTests7(){
         System.out.println("This is Benas test");
     }
-
     @Test
     public void homeTest5(){
         System.out.println("This is Mikas test");
