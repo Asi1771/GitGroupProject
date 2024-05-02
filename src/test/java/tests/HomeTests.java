@@ -19,8 +19,24 @@ public class HomeTests {
     }
 
     @Test
-    public void homeTest3(){
+    public void homeTest3() {
         System.out.println("home test 3");
+    }
 
+
+    @Test
+    public void homeTest4() {
+        String city5 = "Bishkek";
+        System.out.println("Bishkek is the best city" + city5);
+    }
+
+    @Test
+    public void homeTests7(){
+        System.out.println("This is Benas test");
+    }
+
+    @Test
+    public void homeTest5() {
+        System.out.println("This is Mikas test");
     }
 }
