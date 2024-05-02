@@ -17,4 +17,10 @@ public class HomeTests {
         String city2 = "Chicago";
         System.out.println(city1);
     }
+
+    @Test
+    public void homeTest3(){
+        System.out.println("home test 3");
+
+    }
 }
