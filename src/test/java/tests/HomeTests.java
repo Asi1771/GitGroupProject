@@ -17,4 +17,9 @@ public class HomeTests {
         String city2 = "Chicago";
         System.out.println(city1);
     }
+    @Test
+    public void homeTest4(){
+        String city5="Bishkek";
+        System.out.println("Bishkek is the best city"+city5);
+    }
 }
